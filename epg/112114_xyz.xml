@@ -54,6 +54,9 @@
 	<programme channel="4K综艺" start="20250203005100 +0800" stop="20250203020000 +0800">
 		<title lang="zh">儿行千里20170910</title>
 	</programme>
+	<programme channel="4K综艺" start="20250203020000 +0800" stop="20250203030200 +0800">
+		<title lang="zh">儿行千里20170917</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -47100,6 +47103,9 @@
 	<programme channel="newtv精品纪录" start="20250203011500 +0800" stop="20250203015400 +0800">
 		<title lang="zh">08_数九盼春</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250203015400 +0800" stop="20250203022100 +0800">
+		<title lang="zh">01_大脑星球</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -47141,6 +47147,9 @@
 	</channel>
 	<programme channel="newtv热播精选" start="20250203002700 +0800" stop="20250203020000 +0800">
 		<title lang="zh">一个好人</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250203020000 +0800" stop="20250203024600 +0800">
+		<title lang="zh">10_梦中的那片海</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -47193,6 +47202,9 @@
 	<programme channel="newtv军事评论" start="20250203013200 +0800" stop="20250203015900 +0800">
 		<title lang="zh">铁流奔腾</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250203015900 +0800" stop="20250203022600 +0800">
+		<title lang="zh">冲锋！骑兵连</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -47207,6 +47219,9 @@
 	</channel>
 	<programme channel="newtv精品综合" start="20250203002000 +0800" stop="20250203015400 +0800">
 		<title lang="zh">战狼</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250203015400 +0800" stop="20250203032500 +0800">
+		<title lang="zh">心动的信号第6季</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>

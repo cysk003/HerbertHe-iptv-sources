@@ -26187,6 +26187,9 @@
 	<programme channel="咪咕综合体育" start="20250224095800 +0800" stop="20250224102900 +0800">
 		<title lang="zh">国球荣耀-2025WTT新加坡大满贯 男双半决赛 艾利克斯b7勒布伦/费利克斯b7勒布伦-王楚钦/林诗栋</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250224103500 +0800" stop="20250224105800 +0800">
+		<title lang="zh">中国榜样冰雪季-对话徐梦桃</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -78123,6 +78126,9 @@
 	<programme channel="newtv超级综艺" start="20250224085500 +0800" stop="20250224102900 +0800">
 		<title lang="zh">非遗里的中国第2季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250224102900 +0800" stop="20250224112900 +0800">
+		<title lang="zh">选对健康</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -78201,6 +78207,9 @@
 	<programme channel="newtv超级电视剧" start="20250224095200 +0800" stop="20250224103700 +0800">
 		<title lang="zh">09_岁岁年年柿柿红</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250224103700 +0800" stop="20250224112200 +0800">
+		<title lang="zh">10_岁岁年年柿柿红</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -78245,6 +78254,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250224094900 +0800" stop="20250224102400 +0800">
 		<title lang="zh">46_特种兵之火凤凰</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250224102400 +0800" stop="20250224105900 +0800">
+		<title lang="zh">47_特种兵之火凤凰</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -78302,6 +78314,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250224100200 +0800" stop="20250224102700 +0800">
 		<title lang="zh">第一集 开启柠檬之旅</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250224102700 +0800" stop="20250224105200 +0800">
+		<title lang="zh">第二集 地中海之味</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -78386,6 +78401,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250224094000 +0800" stop="20250224102800 +0800">
 		<title lang="zh">23_解放大西南</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250224102800 +0800" stop="20250224111400 +0800">
+		<title lang="zh">24_解放大西南</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -78684,6 +78702,9 @@
 	<programme channel="newtv军事评论" start="20250224100200 +0800" stop="20250224102400 +0800">
 		<title lang="zh">营地炊烟（15）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250224102400 +0800" stop="20250224104600 +0800">
+		<title lang="zh">较量无声 芯算</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -78822,6 +78843,9 @@
 	<programme channel="newtv金牌综艺" start="20250224093700 +0800" stop="20250224102700 +0800">
 		<title lang="zh">中国药材九制黄精套组-春节版-渠道（右）</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250224102700 +0800" stop="20250224114900 +0800">
+		<title lang="zh">心动的信号第7季</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -78914,6 +78938,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250224092900 +0800" stop="20250224102500 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250224102500 +0800" stop="20250224111200 +0800">
+		<title lang="zh">06_长安少年行</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>

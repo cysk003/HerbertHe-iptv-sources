@@ -81477,6 +81477,9 @@
 	<programme channel="黑莓电影" start="20250725184800 +0800" stop="20250725204000 +0800">
 		<title lang="zh">超能一家人</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250725204000 +0800" stop="20250725221700 +0800">
+		<title lang="zh">站住！小偷</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -82404,6 +82407,9 @@
 	<programme channel="newtv超级综艺" start="20250725193000 +0800" stop="20250725205100 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250725205100 +0800" stop="20250725212900 +0800">
+		<title lang="zh">动物园里有什么</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -82668,6 +82674,9 @@
 	<programme channel="newtv精品大剧" start="20250725195400 +0800" stop="20250725204000 +0800">
 		<title lang="zh">68_清平乐[DVD版]</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250725204000 +0800" stop="20250725211000 +0800">
+		<title lang="zh">《爱生活爱健康》推荐第二期</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -82890,6 +82899,9 @@
 	<programme channel="newtv军旅剧场" start="20250725195900 +0800" stop="20250725204500 +0800">
 		<title lang="zh">22_猎狼刀</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250725204500 +0800" stop="20250725213000 +0800">
+		<title lang="zh">23_猎狼刀</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -83096,6 +83108,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250725195600 +0800" stop="20250725204100 +0800">
 		<title lang="zh">15_好团圆</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250725204100 +0800" stop="20250725211100 +0800">
+		<title lang="zh">《爱生活爱健康》推荐第二期</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
